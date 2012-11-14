@@ -1,0 +1,1 @@
+Code sample from my MSDN Magazing article 'HTML5 Offline Applications: ‘Donut Hole’ Caching' - http://msdn.microsoft.com/en-us/magazine/hh561712.aspx
